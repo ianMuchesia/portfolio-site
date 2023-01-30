@@ -33,5 +33,22 @@ nav img{
     color:red;
     cursor: pointer;
 }
+.hero{
+    display: flex;
+    padding: 0px 30px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.title{
+    margin-bottom: 10px;
+
+}
+.title h1{
+    font-size: 50px;
+    text-align: center;
+}
+.intro-title h3{
+    text-align: center;
+}
 
 
